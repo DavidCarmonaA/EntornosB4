@@ -15,6 +15,9 @@ public class Prueba {
      */
     public static void main(String[] args) {
         
+        System.out.println("INICIO DE PROGRAMA:");
+        System.out.println("");
+        
         Asalariado asalariado1 = new Asalariado(800, "Juan",
                 "Gómez", "11111111A");        
         PorHoras porHoras1 = new PorHoras("Carolina", "Marín", 
