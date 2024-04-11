@@ -2,4 +2,13 @@
 .gradle
 
 # Ignore Gradle build output directory
-build
+build/
+
+# Ignora la carpeta del Javadoc
+dist/
+
+# Ignora todos los .class, .exe, .zip y .rar
+*.class
+*.exe
+*.zip
+*.rar
